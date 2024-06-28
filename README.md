@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prit1310" alt="prit1310" /></a> </p>
 
-- 💬 Ask me about *React,html,css*
+- 💬 Ask me about *c,c++,java,js,react*
 
 - 📫 How to reach me *pritsenjaliya1162@gmail.com*
 
