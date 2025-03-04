@@ -33,11 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </div>
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prit1310&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
 ---
 <div align="center">
   <i>Happy Coding! 👨‍💻</i>
